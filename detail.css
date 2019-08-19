@@ -24,6 +24,7 @@ h3 {
 blockquote {
     max-width: 50em;
     margin-left: 10%;
+    font-size: 15pt;
 }
 
 blockquote:before {
