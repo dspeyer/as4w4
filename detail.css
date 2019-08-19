@@ -38,3 +38,19 @@ blockquote:after {
     font-size: 20pt;
     opacity: 0.5;
 }
+
+div.picturebox {
+    float: right;
+    background: #9cf;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    width: 240px;
+    font-size: 10pt;
+    box-shadow: -2px -2px 2px 0px #9cf,
+                5px 5px 5px 0px #050;
+}
+div.picturebox img {
+    display: block;
+    width: 240px;
+}
