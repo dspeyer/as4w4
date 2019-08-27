@@ -38,6 +38,12 @@ div.bannertext p {
     margin: 0.7em 1em;
 }
 
+div.bannertext h1 {
+    flex: auto;
+    color: #fff;
+    margin: 0.7em 1em;
+}
+
 div.columns {
     display: flex;
     flex-flow: row;
