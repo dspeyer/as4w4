@@ -101,10 +101,3 @@ div.footer {
         flex-flow: column;
     }
 }
-
-div.smalltext {
-    font-size: 8pt;
-    color: #777;
-    margin-top: 0.5in;
-    text-align: center;
-}
